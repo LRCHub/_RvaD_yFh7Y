@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "FREEZE",
+  "base_artist": "NOISEMAKER",
+  "createdAt": "2026-01-13T09:52:54.671702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee's Freeze Club) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Todd Terry",
+      "has_synced": false,
+      "path": "select/01_Stupid_Girl_(Todd_Terry_-_Tee's_Freeze_Club)_(_2015_-_Remaster)_Garbage_feat._Todd_Terry.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stupid Girl (Todd Terry - Tee's Freeze Club)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/02_Stupid_Girl_(Todd_Terry_-_Tee's_Freeze_Club)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Freeze",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/03_Freeze_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
+      "artist": "Central Cee feat. Rondodasosa, Freeze corleone, Baby Gang, A2 Anti, Morad, Beny Jr & ASHE 22",
+      "has_synced": true,
+      "path": "select/04_Eurovision_(feat._Rondodasosa,_Baby_Gang,_A2_Anti,_Morad,_Beny_Jr,_Ashe_22_&_Fre_Central_Cee_feat._Rondodasosa,_Freeze_corleone,_Baby_Gang,_A2_Anti,_Morad,_Beny_.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eurovision (feat. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone)",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/05_Eurovision_(feat._Rondodasosa,_Baby_Gang,_A2_Anti,_Morad,_Beny_Jr,_Ashe_22_&_Fre_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Freeze",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/06_Freeze_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Freeze - 2010 Remastered Version",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/07_The_Freeze_-_2010_Remastered_Version_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Freeze - BBC In Concert, Bournemouth, 10/4/82",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/08_The_Freeze_-_BBC_In_Concert,_Bournemouth,_10_4_82_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Freeze (BBC In Concert, Bournemouth, 10\u00004\u000082)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/09_The_Freeze_(BBC_In_Concert,_Bournemouth,_10\u00004\u000082)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Freeze - BBC Session: Studio B15, 15/03/1981",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/10_The_Freeze_-_BBC_Session__Studio_B15,_15_03_1981_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Freeze (BBC Session: Studio B15, 15\u000003\u00001981)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/11_The_Freeze_(BBC_Session__Studio_B15,_15\u000003\u00001981)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Freeze",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/12_The_Freeze_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Freeze - Special Mix; 2010 Remaster",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/13_The_Freeze_-_Special_Mix;_2010_Remaster_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Time Freeze",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/14_Time_Freeze_Yello.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hyperballad (Tee's Freeze Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/15_Hyperballad_(Tee's_Freeze_Mix)_Björk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FREEZE",
+      "artist": "NOISEMAKER",
+      "has_synced": false,
+      "path": "select/pl_01_FREEZE_NOISEMAKER.txt"
+    }
+  ]
+}
